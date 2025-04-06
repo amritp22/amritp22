@@ -39,7 +39,7 @@
 **Tech Stack:** Spring Boot, MySQL, JWT, React, Redux, Cloudinary  
 ✔️ User Authentication | ✔️ Post & Comment System | ✔️ Image Upload | ✔️ Like Feature  
 
-### 🔹 [QR-Based Ticket System](https://github.com/amritp22/Musket)
+### 🔹 [QR-Based Ticket System](https://github.com/amritp22/MusketApp/tree/master)
 **Tech Stack:** Java, Spring Boot, MySQL, QR Code Generator,React 
 ✔️ Ticket Booking | ✔️ QR Code Generation | ✔️ Ticket Validation API  
 
