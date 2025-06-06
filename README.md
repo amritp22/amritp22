@@ -35,12 +35,17 @@
 ---
 
 ## 📌 **Pinned Projects**
+### 🔹 [Document Delivery App](https://github.com/amritp22/document-Delivery-app)
+**Tech Stack:** Spring Boot, MySQL, JWT, React, WebSocket, Leaflet    
+✔️ User & Agent Authentication | ✔️ Delivery Request & Cost Estimation | ✔️ Agent Self-assignment | ✔️ Live Tracking (WebSocket) 
+| ✔️ Real-Time Notifications | ✔️ Order Status Updates
+
 ### 🔹 [Social Media App](https://github.com/amritp22/full-stack-Social-media)
-**Tech Stack:** Spring Boot, MySQL, JWT, React, Redux, Cloudinary  
+**Tech Stack:** Spring Boot, MySQL, JWT, React, Redux, Cloudinary   
 ✔️ User Authentication | ✔️ Post & Comment System | ✔️ Image Upload | ✔️ Like Feature  
 
 ### 🔹 [QR-Based Ticket System](https://github.com/amritp22/MusketApp/tree/master)
-**Tech Stack:** Java, Spring Boot, MySQL, QR Code Generator,React 
+**Tech Stack:** Java, Spring Boot, MySQL, QR Code Generator,React    
 ✔️ Ticket Booking | ✔️ QR Code Generation | ✔️ Ticket Validation API  
 
 
